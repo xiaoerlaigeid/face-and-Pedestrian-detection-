@@ -1,2 +1,3 @@
 # face-and-Pedestrian-detection-
-small demo show how to use python and opencv library to detect object.
+show how to use python and opencv library to detect object.
+the project has gui and transfer message by mqtt protocol.
